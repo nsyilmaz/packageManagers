@@ -48,6 +48,10 @@ Install a package
 ```sh
 pip3 install setuptools
 ```
+Install packages from requirements.txt
+```sh
+pip3 install -r req.txt
+```
 Update homebrew itself
 ```sh
 pip3 install -U pip
