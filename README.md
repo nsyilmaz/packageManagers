@@ -1,7 +1,7 @@
-# Vim tips & tricks
-## Substitution 
-```vim
-:%s/hede/hodo/g
+# Package Managers
+## Homebrew
+```sh
+brew list
 ```
 * Ctrl-v+M = Enter
 * \n = Enter
