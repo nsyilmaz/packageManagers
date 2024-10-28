@@ -1,14 +1,14 @@
 # Package Managers
 ## Homebrew
-* list installed packages
+List installed packages
 ```sh
 brew list
 ```
-* information about a package
+Information about a package
 ```sh
 brew info certifi
 ```
-* uninstall a package
+Uninstall a package
 ```sh
 brew uninstall semgrep
 ```
