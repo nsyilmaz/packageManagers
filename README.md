@@ -8,24 +8,24 @@ brew list
 ```sh
 brew info certifi
 ```
+* uninstall a package
 ```sh
-# uninstall a package
 brew uninstall semgrep
 ```
+* install a package
 ```sh
-# install a package
 brew install certifi
 ```
+* update homebrew itself
 ```sh
-# update homebrew itself
 brew update
 ```
+* upgrade all installed packages
 ```sh
-# upgrade all installed packages
 brew upgrade
 ```
+* upgrade a package
 ```sh
-# upgrade a package
 brew upgrade certifi
 ```
 
