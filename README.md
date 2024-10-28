@@ -1,6 +1,7 @@
 # Package Managers
 ## Homebrew
 ```sh
+# list packages
 brew list
 ```
 * Ctrl-v+M = Enter
