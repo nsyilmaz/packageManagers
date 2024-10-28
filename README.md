@@ -4,6 +4,10 @@
 # list packages
 brew list
 ```
+```sh
+# information about a package
+brew info certifi
+```
 * Ctrl-v+M = Enter
 * \n = Enter
 
