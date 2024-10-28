@@ -1,11 +1,11 @@
 # Package Managers
 ## Homebrew
+* list installed packages
 ```sh
-# list packages
 brew list
 ```
+* information about a package
 ```sh
-# information about a package
 brew info certifi
 ```
 ```sh
