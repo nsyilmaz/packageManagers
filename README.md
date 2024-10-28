@@ -12,35 +12,53 @@ Uninstall a package
 ```sh
 brew uninstall semgrep
 ```
-* install a package
+Install a package
 ```sh
 brew install certifi
 ```
-* update homebrew itself
+Update homebrew itself
 ```sh
 brew update
 ```
-* upgrade all installed packages
+Upgrade all installed packages
 ```sh
 brew upgrade
 ```
-* upgrade a package
+Upgrade a package
 ```sh
 brew upgrade certifi
 ```
 
-* Ctrl-v+M = Enter
-* \n = Enter
-
-To substitude [;] with [Enter] :
-```vim
-:%s/;/Ctrl-v+M/g
-```
 #####
 
-## Syntax highlight
-```vim
-:syn on
+## Pip
+List installed packages
+```sh
+pip3 list
+```
+Information about a package
+```sh
+pip3 show wheel
+```
+Uninstall a package
+```sh
+pip3 uninstall setuptools
+```
+Install a package
+```sh
+pip3 install setuptools
+```
+Update homebrew itself
+```sh
+pip3 install -U pip
+```
+Upgrade all installed packages
+```sh
+pip3
+```
+Upgrade a package
+```sh
+pip3 install -U wheel
 ```
 #####
 
