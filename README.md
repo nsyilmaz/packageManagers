@@ -8,6 +8,27 @@ brew list
 # information about a package
 brew info certifi
 ```
+```sh
+# uninstall a package
+brew uninstall semgrep
+```
+```sh
+# install a package
+brew install certifi
+```
+```sh
+# update homebrew itself
+brew update
+```
+```sh
+# upgrade all installed packages
+brew upgrade
+```
+```sh
+# upgrade a package
+brew upgrade certifi
+```
+
 * Ctrl-v+M = Enter
 * \n = Enter
 
