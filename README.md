@@ -52,7 +52,7 @@ Install packages from requirements.txt
 ```sh
 pip3 install -r req.txt
 ```
-Update homebrew itself
+Update pip3 itself
 ```sh
 pip3 install -U pip
 ```
